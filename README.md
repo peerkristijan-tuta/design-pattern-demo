@@ -1,4 +1,4 @@
-Kindly consult the class diagram for a visualization on the design patterns in this program. 
+Kindly consult the class diagram for a visualization of the design patterns in this program. 
 
 1. Execution instructions
 
